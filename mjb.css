@@ -1,0 +1,65 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+html,
+body {
+    height: 100%;
+    width: 100%;
+}
+
+section {
+    height: 100%;
+    width: 100%;
+}
+
+#home {
+    height: 100%;
+    width: 100%;
+    background-color: black;
+    background-size: cover;
+}
+
+.first {
+    text-transform: capitalize;
+    color: blue;
+    padding: 50px 0 0 0;
+}
+.first h1{
+    font-size: 60px;
+}
+.first h2{
+    font-family: 'Lobster', cursive;
+    font-size: 40px;
+}
+.ok{
+    color: white;
+}
+.design{
+    padding: 0 10px 0 10px;
+}
+.ok1{
+    padding: 20px 160px 20px 160px;
+}
+.ok2{
+    margin-right: 30px;
+}
+#size {
+    margin-top: 70px;
+}
+.butn{
+    border-radius: 1px;
+    text-decoration: none;
+     color: white;
+}
+.button{
+   text-align: center;
+    padding: 10px 20px 10px 20px;
+}
+
+.final{
+    padding: 50px 20px 50px 20px;
+}
+
+
